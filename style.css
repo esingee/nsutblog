@@ -9,6 +9,7 @@ body{
     border-style: outset;
     border-width: 10px;
     border-color: rgb(68, 65, 65);
+    height:100vh;
 }
 .head{
     background-image: url(blog.jpg);
