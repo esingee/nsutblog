@@ -55,6 +55,7 @@ body{
     border-width:3px;
     border:white;
     border-style: dashed;
+      display: flex;
   }
   #topic2{
     background-image: url(technical.jpg);
@@ -73,6 +74,7 @@ body{
     border-width:3px;
     border:white;
     border-style: dashed;
+      display: flex;
   }
   #topic3{
     background-image: url(campus\ life\ blog.jpg);
@@ -91,6 +93,7 @@ body{
     border-width:3px;
     border:white;
     border-style: dashed;
+      display: flex;
   }
   .topnav {
     background-color: black;
